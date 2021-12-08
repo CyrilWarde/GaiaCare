@@ -1,0 +1,7 @@
+# pack-refs with: peeled fully-peeled sorted 
+b87259e98a7b5a8acb03e3e8aed3c3f429d81d22 refs/heads/cyril_docker
+872a8e35f3f207b4eb6b451958d5125b7d132a3d refs/heads/cyril_segmentation
+da271d16ba8114a81cea901031e253e970ee9811 refs/heads/main
+8c61dab180e75d57a82b5a07ca6cebaef6c75a7b refs/heads/vSeg
+9e16de673f54bdc9c81a6250b463ae78b5a6cb41 refs/heads/website
+0d2df9fd73be4a3b9f15e51b2a8c6bcf46b4c55d refs/heads/websitev2
